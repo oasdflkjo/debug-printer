@@ -1,0 +1,18 @@
+{
+    "idf.espIdfPath": "C:/tools/esp-idf",
+    "idf.toolsPath": "C:/tools/esp-idf/tools",
+    "idf.pythonBinPath": "C:/tools/esp-idf/python_env/idf5.0_py3.8_env/Scripts/python.exe",
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "*.h": "c",
+        "*.c": "c",
+        "*.cpp": "cpp",
+        "*.hpp": "cpp"
+    },
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "C:/tools/esp-idf/components/**"
+    ],
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: LLVM, IndentWidth: 4 }"
+} 

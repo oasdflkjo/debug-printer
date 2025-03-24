@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "ESP-IDF",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/tools/esp-idf/components/**",
+                "C:/tools/esp-idf/components/freertos/FreeRTOS-Kernel/include",
+                "C:/tools/esp-idf/components/esp_common/include",
+                "C:/tools/esp-idf/components/esp_system/include",
+                "C:/tools/esp-idf/components/log/include",
+                "C:/tools/esp-idf/components/nvs_flash/include",
+                "C:/tools/esp-idf/components/bt/include",
+                "C:/tools/esp-idf/components/bt/host/bluedroid/api/include",
+                "C:/tools/esp-idf/components/bt/host/bluedroid/stack/include",
+                "C:/tools/esp-idf/components/driver/include",
+                "C:/tools/esp-idf/components/soc/include"
+            ],
+            "defines": [],
+            "compilerPath": "C:/tools/esp-idf/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x86"
+        }
+    ],
+    "version": 4
+} 
